@@ -1,0 +1,6 @@
+{
+  "name": "Trailer Pro - Gestão & Pedidos em 3 Janelas",
+  "description": "Sistema completo para trailer de lanches com 3 janelas sincronizadas: Caixa/PDV, Cozinha (KDS Chapa) e Painel de Chamada de Senhas para clientes, com controle de caixa e impressão de comandas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
